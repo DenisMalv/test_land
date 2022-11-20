@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/new_landing/static/css/main.a863c557.css",
+    "main.js": "/new_landing/static/js/main.7ead4496.js",
+    "static/media/denis-hero.jpg": "/new_landing/static/media/denis-hero.22f324cd3188d84a2a20.jpg",
+    "static/media/symbol-defs.svg": "/new_landing/static/media/symbol-defs.1547eb591655aa6d5479b94ab00e0903.svg",
+    "static/media/denis-contacts.jpg": "/new_landing/static/media/denis-contacts.ab4e8f4f2f20bf6533d5.jpg",
+    "static/media/project-finder.jpg": "/new_landing/static/media/project-finder.7380ca254fb2d178ae72.jpg",
+    "static/media/project-filmoteka.jpg": "/new_landing/static/media/project-filmoteka.a40e672a1bbf63ceae21.jpg",
+    "static/media/project-courses.jpg": "/new_landing/static/media/project-courses.df00e3173574d54e4120.jpg",
+    "static/media/project-wallet.jpg": "/new_landing/static/media/project-wallet.8bb5c79d5c059953f0a9.jpg",
+    "index.html": "/new_landing/index.html",
+    "main.a863c557.css.map": "/new_landing/static/css/main.a863c557.css.map",
+    "main.7ead4496.js.map": "/new_landing/static/js/main.7ead4496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a863c557.css",
+    "static/js/main.7ead4496.js"
+  ]
+}
